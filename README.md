@@ -7,7 +7,7 @@ Projects
 Technologies Used: 
 <div>
   <img width="44" height="44" src="https://img.icons8.com/plasticine/100/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
-  <img width="100" height="100" src="https://img.icons8.com/plasticine/100/html-5.png" alt="html-5"/>
+  <img width="44" height="44" src="https://img.icons8.com/plasticine/100/html-5.png" alt="html-5"/>
   <img width="44" height="44" src="https://img.icons8.com/plasticine/44/css3.png" alt="css3"/>
   <img width="44" height="44" src="https://img.icons8.com/color/44/sass.png" alt="sass"/>
   <img width="44" height="44" src="https://img.icons8.com/fluency/44/javascript.png" alt="javascript"/>
