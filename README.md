@@ -6,7 +6,7 @@ Projects
 
 Technologies Used
 
-<img width="64" height="64" src="https://img.icons8.com/nolan/64/html-5.png" alt="html-5"/>
+<img width="44" height="44" src="https://img.icons8.com/nolan/64/html-5.png" alt="html-5"/>
 <img width="44" height="44" src="https://img.icons8.com/plasticine/44/css3.png" alt="css3"/>
 <img width="44" height="44" src="https://img.icons8.com/color/44/sass.png" alt="sass"/>
 <img width="44" height="44" src="https://img.icons8.com/color/48/git.png" alt="git"/>
