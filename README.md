@@ -19,6 +19,6 @@ Technologies Used
 <img width="40" height="40" src="https://img.icons8.com/external-justicon-flat-justicon/44/external-coding-responsive-web-design-justicon-flat-justicon-2.png" alt="external-coding-responsive-web-design-justicon-flat-justicon-2"/>
 <img width="44" height="44" src="https://img.icons8.com/external-smashingstocks-circular-smashing-stocks/44/external-Data-Encryption-internet-security-smashingstocks-circular-smashing-stocks.png" alt="external-Data-Encryption-internet-security-smashingstocks-circular-smashing-stocks"/>
 <img width="44" height="44" src="https://img.icons8.com/fluency/48/metasploit.png" alt="metasploit"/>
-<a  href="https://icons8.com/icon/42viinmeBvw0/encryption">Encryption</a> icon by <a href="https://icons8.com">Icons8</a>
+<img width="40" height="40" src="https://img.icons8.com/external-smashingstocks-glyph-smashing-stocks/40/external-Encryption-phishing-smashingstocks-glyph-smashing-stocks-2.png" alt="external-Encryption-phishing-smashingstocks-glyph-smashing-stocks-2"/>
 
 If you have any questions or would like to collaborate on a project, please feel free to reach out to me at bensassin6@gmail.com. I look forward to hearing from you!
