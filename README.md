@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @iris777vampyheks
 Welcome to my Web Development Repository!
 About:
- I am currently learning HTML, CSS, JavaScript, and React, and I am eager to collaborate on projects with other developers.
-Projects
+I am a passionate learner and aspiring web developer. Currently, I am focusing on honing my skills in HTML, CSS, JavaScript, and React. I am enthusiastic about collaborating with other developers on exciting projects to enhance my knowledge and contribute to the web development community.
 
-Technologies Used: 
+Technologies Leveraged: 
 <div>
   <img width="44" height="44" src="https://img.icons8.com/plasticine/100/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
   <img width="44" height="44" src="https://img.icons8.com/plasticine/100/html-5.png" alt="html-5"/>
@@ -13,9 +12,9 @@ Technologies Used:
   <img width="44" height="44" src="https://img.icons8.com/fluency/44/javascript.png" alt="javascript"/>
   <img width="44" height="44" src="https://img.icons8.com/officel/44/react.png" alt="react"/>
   <img width="44" height="44" src="https://img.icons8.com/plasticine/100/bash.png" alt="bash"/>
-  <img width="44" height="44" src="https://img.icons8.com/color/48/git.png" alt="git"/>
 </div>
 <div>
+  <img width="44" height="44" src="https://img.icons8.com/color/48/git.png" alt="git"/>
   <img width="44" height="44" src="https://img.icons8.com/stickers/44/laravel.png" alt="laravel"/>
   <img width="44" height="44" src="https://img.icons8.com/plasticine/100/oracle-pl-sql--v3.png" alt="oracle-pl-sql--v3"/>
   <img width="40" height="40" src="https://img.icons8.com/external-justicon-flat-justicon/44/external-coding-responsive-web-design-justicon-flat-justicon-2.png" alt="external-coding-responsive-web-design-justicon-flat-justicon-2"/>
