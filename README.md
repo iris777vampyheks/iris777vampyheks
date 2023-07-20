@@ -4,6 +4,7 @@ About:
 I am a passionate learner and aspiring web developer. Currently, I am focusing on honing my skills in HTML, CSS, JavaScript, and React. I am enthusiastic about collaborating with other developers on exciting projects to enhance my knowledge and contribute to the web development community.
 
 Technologies Leveraged: 
+
 <div>
   <img width="44" height="44" src="https://img.icons8.com/plasticine/100/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
   <img width="44" height="44" src="https://img.icons8.com/plasticine/100/html-5.png" alt="html-5"/>
